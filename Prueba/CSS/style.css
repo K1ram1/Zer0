@@ -1,0 +1,61 @@
+header
+{
+    padding: 2%;
+    background-color: chocolate;
+    text-align: center;
+}
+header nav
+{
+    text-align: left;
+}
+header nav li
+{
+    font-size: 1.3rem;
+}
+header h1
+{
+    font-size: 4rem;
+}
+
+#indice
+{
+    background-color: rgb(27, 171, 190);
+    max-width: 25%;
+}
+#indice li
+{
+    font-size: 1.1rem;
+}
+li
+{
+    padding-bottom: 0.5rem;
+}
+#indice ol
+{
+    padding: 1rem 2.5rem;
+}
+
+
+body
+{
+    background-color: rgba(73, 197, 35, 0.966);
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+}
+
+.lugares li img
+{
+    width: 30%;
+    height: auto; 
+    margin-top: 0.5rem;
+}
+.lugares li
+{
+    margin-bottom: 2rem;
+    padding-bottom: 0;
+    font-size: 1.6rem;
+}

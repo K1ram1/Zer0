@@ -1,0 +1,65 @@
+header
+{
+    text-align: center;
+}
+
+header h1
+{
+    background-color: aqua;
+    margin: 0 20%;
+    padding: 2%;
+    font-size: 4rem;
+}
+
+header nav ul
+{
+    text-decoration: none;
+}
+
+
+a
+{
+    text-decoration: none;
+    font-weight: 700;
+}
+
+#box_imagen
+{
+    margin: 2.5rem auto;
+    width: 30%;
+    max-width: 40%;
+    height: auto;
+    text-align: center;
+    background-color: rgb(16, 216, 83);
+    padding: 1.5rem;
+}
+#box_imagen img
+{
+    max-width: 100%;
+    height: auto;
+}
+
+#box_letra
+{
+    width: 60%;
+    text-align: justify;
+    background-color: rgb(1, 64, 146);
+    padding: 1.5rem;
+    margin: 2.5rem auto;
+}
+.subtitulos
+{
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-top: 2.5rem;
+    margin-bottom: 0;
+}
+
+p
+{
+    font-size: 1.1rem;
+}
+#box_letra li
+{
+    margin-bottom: 0.5rem;
+}
